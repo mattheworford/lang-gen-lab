@@ -1,2 +1,2 @@
-# lang-gen-lab
+# LangGenLab
 Exploration in language generation
