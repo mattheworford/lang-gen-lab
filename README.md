@@ -10,7 +10,7 @@ Just clone this repository to your local machine using `git clone`. Then, poke a
 
 Because the programs and projects in this repo are all unique in one way or another, there's no hard-and-fast rule for using them. Some may come with instructions; others might not. However, most of them aren't overly complex, so a glance at the code should give you a decent understanding of what they do.
 
-If you're looking into Python scripts, for instance, running them typically just requires a straightforward `python ./<file name>`.
+If you're looking into Python projects, for instance, running them typically just requires a straightforward `python ./<file name>`.
 
 ## License
 
